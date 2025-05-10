@@ -2,6 +2,7 @@
 
 This project demonstrates how to build an intelligent conversational book assistant by integrating Amazon Nova Sonic model with Amazon Bedrock Knowledge Base. The application enables natural speech-to-speech interactions while leveraging a knowledge base to provide accurate, contextual responses about books, authors, and reading recommendations.
 
+#
 ## Key Features
 
 - **Knowledge Base Integration**: Retrieves accurate information about books and authors stored in Amazon Bedrock Knowledge Base
